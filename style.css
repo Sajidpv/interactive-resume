@@ -1,0 +1,105 @@
+.s-header{
+    background-color: rgb(14, 136, 73);
+    color: white;
+    position: fixed;
+    width:100%
+   
+}
+.s-icon{
+    text-decoration: none;
+    color:rgb(2, 78, 39); 
+    ;
+}
+
+.card{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    position: relative;
+}
+
+.a-m{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+li{
+    margin-top: 0.5em;
+}
+.s-profile{
+    padding-top: 5em;
+}
+.s-hr{
+    border: solid 1px  rgb(18, 73, 45);
+    opacity: 0.1;
+}
+h1,h3 {
+    font-weight: 300;
+    color: rgb(48, 155, 100);
+}
+h3 {
+    border-bottom: 1px solid rgb(48, 155, 100);
+   
+}
+
+
+.h-name{
+    margin-left: 20px;
+}
+
+footer{
+    background-color: rgb(14, 136, 73);
+    color: rgb(172, 155, 125);
+    font-size:medium;
+    margin-top: 2em;
+}
+
+.card-img-overlay{
+     color: rgb(1, 59, 29);
+}
+i{
+    color: black;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.i{
+    color: rgb(208, 245, 208);
+}
+.checked {
+    color: orange;
+  }
+.profile-img {
+    background: rgb(18, 73, 45);
+    border-radius: 50%;
+    border: solid 10px rgb(208, 245, 208);
+    width: 450px;
+}
+#myProgress {
+    width: 15em;
+    background-color: grey;
+    float: right;
+    margin-top: 0.5em;
+    margin-right: 5em;
+}
+  ul{
+    list-style-type: none;
+  }
+  
+  #myBar {
+    
+    height: 10px;
+    background-color: green;
+  }
+  .s-cont{
+    color: black;
+    text-decoration: none;
+  }
+
